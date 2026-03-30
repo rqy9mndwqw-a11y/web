@@ -1,5 +1,13 @@
 [
   {
+  "name": "CLAUDIA",
+  "description": "AI-powered DeFi intelligence platform on Base. Token-gated access to market scanning, multi-agent analysis, and on-chain portfolio tracking.",
+  "url": "https://app.claudia.wtf",
+  "imageUrl": "/images/partners/claudia-ai.png",
+  "category": "ai",
+  "subcategory": "ai"
+}
+  {
     "name": "growthepie",
     "description": "The open analytics platform for the Ethereum ecosystem. We empower Base Chain builders with open and actionable metrics on usage, growth, and adoption.",
     "url": "https://www.growthepie.com/chains/base",
